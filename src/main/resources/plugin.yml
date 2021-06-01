@@ -1,0 +1,6 @@
+name: ServerStatus
+version: ${project.version}
+main: me.yarinlevi.serverstatus.bukkit.ServerStatusSpigot
+api-version: 1.16
+author: Quapi
+description: Report server status to discord with ease!

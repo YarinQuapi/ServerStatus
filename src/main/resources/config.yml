@@ -1,0 +1,6 @@
+# Created by Quapi
+
+# Bot's token
+token: "token"
+# In seconds
+update-every: 10
